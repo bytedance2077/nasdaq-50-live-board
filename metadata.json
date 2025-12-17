@@ -1,0 +1,5 @@
+{
+  "name": "NASDAQ-50 Live Terminal",
+  "description": "A high-frequency, visually immersive monitoring dashboard for NASDAQ Top 50 stocks with Gemini AI market analysis.",
+  "requestFramePermissions": []
+}
